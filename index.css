@@ -11,18 +11,12 @@ input[type="submit"]{
 
 }
 
-input[type="text"]{
-
-}
-
 form{
     margin: auto;
     text-align: center;
 }
 
-fieldset{
-    
-}
+
 
 p{
     font-size: medium;
