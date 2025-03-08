@@ -1,0 +1,31 @@
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 1rem;
+    margin-top: 1.2rem;
+    width: ;
+    padding: .5rem;
+}
+
+input[type="submit"]{
+    background-color: lightskyblue;
+
+}
+
+input[type="text"]{
+
+}
+
+form{
+    margin: auto;
+    text-align: center;
+}
+
+fieldset{
+    
+}
+
+p{
+    font-size: medium;
+}
+
